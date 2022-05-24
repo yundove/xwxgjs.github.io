@@ -1,0 +1,5 @@
+defaults:
+  - scope:
+      path: "public"
+    values:
+      image: true

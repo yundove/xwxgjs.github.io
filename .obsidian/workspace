@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面试官培训材料.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试官培训材料.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "cfcda9ef509591a9",
   "lastOpenFiles": [
+    "README.md",
     "面试官培训材料.md",
     "public/面试官须知.png",
     "和UI交流的过程.md",
@@ -97,7 +98,6 @@
     "public/3c8699bbd80d431b85393568551f919a~tplv-k3u1fbpfcp-zoom-1.png",
     "杂谈/阅读“程序员面试软技能，值得收藏”的实战体验.md",
     "初窥门径/前端开源贡献第一步：如何配置类 Linux 系统下的 Node.js 开发环境.md",
-    "初级面试题/网络相关.md",
-    "初级面试题/README.md"
+    "初级面试题/网络相关.md"
   ]
 }
