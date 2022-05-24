@@ -1,0 +1,14 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "public",
+  "strictLineBreaks": true,
+  "showFrontmatter": false,
+  "rightToLeft": false,
+  "readableLineLength": false,
+  "tabSize": 2
+}

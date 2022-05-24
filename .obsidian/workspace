@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "ddf11e56a7f91873",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfcda9ef509591a9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "面试官培训材料.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a460d240a3cd4f44",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ad305677a88de0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cecf92ad55c36f3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "24b5669bff033c3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 338.5
+  },
+  "right": {
+    "id": "fd477810bb128e97",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4e8da2a8aa9388d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50de8e9b2e3f4efb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "面试官培训材料.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cfcda9ef509591a9",
+  "lastOpenFiles": [
+    "面试官培训材料.md",
+    "public/面试官须知.png",
+    "和UI交流的过程.md",
+    "代码手写/手动解析url-qs.md",
+    "public/c5b33a7da0ac41d8beb2ad347f330fe1~tplv-k3u1fbpfcp-zoom-1.png",
+    "public/3c8699bbd80d431b85393568551f919a~tplv-k3u1fbpfcp-zoom-1.png",
+    "杂谈/阅读“程序员面试软技能，值得收藏”的实战体验.md",
+    "初窥门径/前端开源贡献第一步：如何配置类 Linux 系统下的 Node.js 开发环境.md",
+    "初级面试题/网络相关.md",
+    "初级面试题/README.md"
+  ]
+}
