@@ -7,8 +7,12 @@
         "id": "cfcda9ef509591a9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "面试官培训材料.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "面试官培训材料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,9 +89,9 @@
   },
   "active": "cfcda9ef509591a9",
   "lastOpenFiles": [
-    "template/公共脚注.md",
     "面试官培训材料.md",
     "README.md",
+    "template/公共脚注.md",
     "public/面试官须知.png",
     "和UI交流的过程.md",
     "代码手写/手动解析url-qs.md",
