@@ -7,12 +7,8 @@
         "id": "cfcda9ef509591a9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "cfcda9ef509591a9",
   "lastOpenFiles": [
-    "README.md",
+    "template/公共脚注.md",
     "面试官培训材料.md",
+    "README.md",
     "public/面试官须知.png",
     "和UI交流的过程.md",
     "代码手写/手动解析url-qs.md",
     "public/c5b33a7da0ac41d8beb2ad347f330fe1~tplv-k3u1fbpfcp-zoom-1.png",
     "public/3c8699bbd80d431b85393568551f919a~tplv-k3u1fbpfcp-zoom-1.png",
     "杂谈/阅读“程序员面试软技能，值得收藏”的实战体验.md",
-    "初窥门径/前端开源贡献第一步：如何配置类 Linux 系统下的 Node.js 开发环境.md",
-    "初级面试题/网络相关.md"
+    "初窥门径/前端开源贡献第一步：如何配置类 Linux 系统下的 Node.js 开发环境.md"
   ]
 }
